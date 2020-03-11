@@ -2,7 +2,7 @@ source "https://rubygems.org"
   
 ruby '2.7.0'
 
-gem 'rake', '~> 11.2', '>= 11.2.2'
+gem 'rake', '~> 12.3'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'database_cleaner'
 gem 'rubyzip'

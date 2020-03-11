@@ -43,7 +43,7 @@ GEM
       nenv (~> 0.1)
       shellany (~> 0.0)
     pg (1.2.2)
-    rake (11.3.0)
+    rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -65,7 +65,7 @@ DEPENDENCIES
   net-sftp (~> 2.1.2)
   pg (>= 0.18, < 2.0)
   pry!
-  rake (~> 11.2, >= 11.2.2)
+  rake (~> 12.3)
   rubyzip
   tzinfo-data
 
